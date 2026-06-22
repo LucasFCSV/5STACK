@@ -27,6 +27,7 @@ Reduzir o tempo gasto procurando jogadores em grupos de Discord, redes sociais e
 Este projeto está sendo desenvolvido utilizando:
 
 - HTML
+- CSS
 
 > As tecnologias serão alteradas e expandidas durante o desenvolvimento do projeto.
 
